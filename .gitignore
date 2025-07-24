@@ -1,6 +1,5 @@
+# https://github.com/gabibdods/NewRepositoryTemplate:
 *
-
-# github.com/gabibdods's Repository Template
 
 !.gitattributes
 !.gitignore
@@ -8,3 +7,8 @@
 !License/
 !License/LICENSE.md
 !License/NOTICE.md
+
+
+# particular repository ignores:
+
+!Order.txt
