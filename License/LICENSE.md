@@ -1,15 +1,23 @@
-# Copyright © Gabriel Oliveira da Silva, Created in 2025
+Copyright © Gabriel Oliveira da Silva (at github.com/gabibdods)
 
-## This repository is provided for educational and portfolio purposes only.
+This repository is provided for educational and portfolio purposes only.
 
-## You may view the source code to evaluate the author’s experience and skills.
+You MAY:
 
-## You MAY NOT:
+- View the codebase to evaluate the author’s experience and skills.
 
-- Copy, modify, distribute, or use this code in any software or derivative works.
+You MAY NOT:
+
+- Copy, modify, distribute, redistribute or use this code or its structure in any software or derivative works.
 - Submit pull requests or forks.
-- Use this code in any commercial or non-commercial projects.
-- Use this code or its structure in any machine learning or AI training systems.
-- Mirror, rehost, or archive this code.
+- Use or reuse this code or its structure in any commercial or non-commercial projects.
+- Use or reuse this code or its structure in any machine learning or AI training systems, datasets or platforms.
+- Mirror, rehost, or archive this code or its structure.
 
-## All rights reserved.
+This license supersedes any previous licenses or implied permissions.
+
+All commits in this repository are governed by this license, unless explicitly stated otherwise.
+
+All code and assets are © Gabriel Oliveira da Silva (at github.com/gabibdods).
+
+All rights reserved.

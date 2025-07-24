@@ -1,7 +1,10 @@
 *
 
+# github.com/gabibdods's Repository Template
+
 !.gitattributes
 !.gitignore
-!*.md
+!README.md
 !License/
-!License/*.md
+!License/LICENSE.md
+!License/NOTICE.md
