@@ -1,1 +1,81 @@
-This is an example.
+Absolutely! Here is a detailed description of the **language style guide** I used to normalize your `README.md`. You can refer to this as:
+
+** "Professional Technical README Style (PT-RS)"**
+
+---
+
+## **Language Style Guide: "Professional Technical README Style (PT-RS)"**
+
+### **Tone**
+
+* **Professional but accessible**: Written for engineers and technically literate readers, but avoids jargon overload.
+* **Objective and clear**: Prioritizes facts and capabilities over hype or emotion.
+* **Collaborative tone**: Recognizes team contributions and learning experiences without sounding overly informal.
+
+### **Wording**
+
+* Use of **active voice** where possible:
+
+  * “We integrated OpenCV…” instead of “OpenCV was integrated…”
+* Favor **concise, specific verbs**:
+
+  * “Implemented”, “Integrated”, “Refactored”, “Generated”
+  * Avoids vague terms like “thing”, “stuff”, “done”, etc.
+* Each sentence communicates **one clear idea**.
+* Sentences are revised to be **complete, grammatically correct**, and free of redundancy.
+
+### **Vocabulary**
+
+* **Technical and accurate**:
+
+  * Uses correct terminology: “CMake linking”, “HSV thresholding”, “JNI bridge”, “real-time processing”
+* Avoids **overly casual or conversational phrases** like:
+
+  * “we figured this out”, “really cool”, “kind of”, “super fast”
+* Includes **domain-specific clarity**:
+
+  * E.g. “rob-twophase algorithm based on Kociemba's method”
+
+## **Punctuation & Grammar**
+
+* Uses **Oxford commas** for clarity in lists:
+
+  * "code readability, modularity, and feedback"
+* Ends all bullet points and feature descriptions with **periods**, maintaining sentence structure.
+* Fixes improper contractions and informal phrasing:
+
+  * “You attention to these details…” → “Your attention to these details…”
+* Ensures **parallel structure** in lists:
+
+  * All bullets start with a consistent verb form or noun phrase.
+
+### **Structure and Formatting**
+
+* Uses consistent section headers (`##`, `###`, `---`) to separate topics clearly.
+* Provides **explicit explanations** after titles, avoiding assumptions.
+* Each section follows a logical order:
+
+  * Description → Problem → Goals → Tools → Design → Features → Architecture → Challenges → Lessons → Credits → Structure → Enhancements
+
+### **Examples of Reformulations**
+
+| Original                                                                             | Normalized                                                                       |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| “highs-peed robot”                                                                   | “high-speed robot”                                                               |
+| “You attention to these details is greatly appreciated and have fun reading moment!” | “Your attention to these details is appreciated — enjoy exploring the project!”  |
+| “As well as both algorithm being both optimized…”                                    | “In addition to both algorithms being highly optimized…”                         |
+| “More specifically `opencv2/opencv.h` allows critical members functions…”            | “Specifically, `opencv2/opencv.h` enables access to essential OpenCV functions.” |
+
+---
+
+## Reference Name
+
+If you'd like me to apply this same style again, you can simply say:
+
+> “Use the **PT-RS style** for the README”
+> or
+> “Normalize this like the Rubik’s Cube robot README”
+
+---
+
+Would you like me to save this style as part of your profile so I always apply it to future README documents unless you specify otherwise?
