@@ -1,5 +1,3 @@
-Absolutely! Here is a detailed description of the **language style guide** I used to normalize your `README.md`. You can refer to this as:
-
 ** "Professional Technical README Style (PT-RS)"**
 
 ---
